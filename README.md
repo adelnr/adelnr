@@ -4,4 +4,8 @@
 
 📫 You can reach me via email at [adelalrahmani@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/adel-alrahmani-094b5126).
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=adelnr&show_icons=true)
+
+
+
 Looking forward to connecting with like-minded individuals and building amazing things together!
