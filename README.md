@@ -4,8 +4,7 @@
 
 📫 You can reach me via email at [adelalrahmani@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/adel-alrahmani-094b5126).
 
-[![Build Status](https://img.shields.io/github/workflow/status/adelnr/repo-name/CI)](https://github.com/your-adelnr/repo-name/actions)
-[![License](https://img.shields.io/github/license/adelnr/repo-name)](https://github.com/adelnr/repo-name/blob/main/LICENSE)
+
 
 
 
